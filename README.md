@@ -32,7 +32,7 @@ This website converts basic english language text into morse code and can also d
 
 Incentive--
 
-1. Privacy driven between the sender and reciever as the custom one are exclusively available on our website.
+1. Privacy driven between the sender and receiver as the custom one are exclusively available on our website.
 2. A custom emoji morse code has been developed that would add on the delights.
 3. People love to use fun way of communicating during friendly chats.  Our website allows to encrypt and decrypt for the basic morse codes as well as the unique custom ones.
 
@@ -43,7 +43,9 @@ Future scope--
 
 Video Link--👇👇�
 
+https://www.loom.com/share/86f8037f55e9402aa75e57b116f12e91?sharedAppSource=personal_library
 
+It works best in any chromium browser
 
 For our presentation and more about this 👇👇
 
