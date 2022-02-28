@@ -38,8 +38,8 @@ Incentive--
 
 Future scope--
 
-1. To let the user to specify their own values to the alphabets and numbers
-2. More tools and custom keys will be added for the privacy ofthe user.
+1. To let the user to specify their own values to the alphabets and numbers.
+2. More tools and custom keys will be added for the privacy of the user.
 
 Video Link--👇👇�
 
